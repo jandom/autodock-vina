@@ -1,0 +1,7 @@
+Ubuntu 12.04
+------------
+
+  sudo apt-get install libboost-all-dev
+  cd build/linux/release
+  make
+
